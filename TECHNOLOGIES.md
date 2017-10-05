@@ -1,11 +1,11 @@
 ### Continious integration
-We're using Travis for our public code such as [payment infrastructure](https://github.com/enhancv/mongoose-subscriptions) or [our homepage](https://github.com/enhancv/homepage) and Codeship for our core product. Our team have always been passionate about improving the development processes, so we implemented a system, that allows us to create a staging version of each branch just by pushing it to `Github` and a link is posted in `Slack`. Even thought our server and client code is tested with `unit` and `integration` tests, our [deployment process takes less than 5 minites to complete](https://viktorkirilov.me/post/how-we-sped-up-builds-by-parallelizing-tasks/).
+We're using Travis for our non-private code such as [payment infrastructure](https://github.com/enhancv/mongoose-subscriptions) and Codeship for our core product as their servers are a lot more powerful. We also implemented a system, that allows us to create a staging version of each branch just by opening a pull request on `Github`. A link to it is posted in `Slack` when its ready. Even though our server and client code is tested with `unit` and `integration` tests, our [deployment process takes less than 5 minutes to complete](https://viktorkirilov.me/post/how-we-sped-up-builds-by-parallelizing-tasks/) thanks to heavy parallelization.
 
 ### Infrastructure
-- All of our public static files are catched in `AWS Cloudfront`.
+- All of our public static files are cached in `AWS Cloudfront`.
 - Our main HTTP API is hosted on `Heroku`
-- Workers, such as content improvement AI, image resizers, PDF generators are deployed to `AWS Lambda` with `AWS ApiGateway`, which allow us to scale unlimitedly.
-- User files such as user avatars are deployed directly to `AWS S3` without going through our servers and then processed by a Lambda.
+- Workers, such as content improvement AI, image resizers, PDF generators are deployed to `AWS Lambda` with `AWS ApiGateway`, which allow us to scale indefinitely.
+- User files such as user avatars are deployed directly from the client to `AWS S3` and then processed by a Lambda without going through our servers.
 - All our logs are collected in `AWS Cloudfront` and we're able to monitor all of our resources via single dashboard.
 
 ### Technologies
@@ -19,8 +19,11 @@ We're using Travis for our public code such as [payment infrastructure](https://
 - Serverless for `AWS Lambda` infrastructure management
 
 ### Tools
-- `Github` - open source and private projects(your private contributions will be visible to your github profile)
-- `Trello` - Tasks logging
+- `Github` - Open source and private projects (your private contributions will be visible in your github profile)
+- `Trello` - Project management
+- `Codeship` - Continuous Integration
+- `Travis` - Continuous Integration for open source projects
 - `Invision` - Wireframes / Prototypes / Product designs
 - `Google Drive` - File sharing
 - `CodeClimate` - Code coverage
+- `Slack` - For team communication
