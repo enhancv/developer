@@ -7,7 +7,7 @@ Full-time | Product team: 5-10 people | Sofia, Bulgaria
 We're a company building browser based resume editing software - wildly regarded as the best out there, with ambitions on taking on the big boys in hiring and recruiting. More about us, our mission and values at our site: https://enhancv.com/about.html (Open Sourced [here at github](https://github.com/enhancv/homepage))
 
 ### Team
-A small team of developers, designers and marketing people, spread around offices in Sofia and Dublin, we've established good process for building our product, allowing people to work remote and adopting new technologies and aproaches. We also have occasional [power weeks](https://blog.enhancv.com/?s=power+week) bringing all of us together to work and play for a week.
+A small team of developers, designers and marketing people, spread around offices in Sofia and Dublin, we've established good process for building our product, allowing people to work remotely and adopt new technologies and aproaches. We also have occasional [power weeks](https://blog.enhancv.com/?s=power+week) bringing all of us together to work and play for a week.
 
 ### Technology
 We're doing this with `nodejs`, `webpack`, `es6`, `react`, `redux` and `python`, on `heroku` and `AWS`. We're using [github flow](https://guides.github.com/introduction/flow/) for our developing process with mutual code reviews and a good amount of integration & unit tests.
