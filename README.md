@@ -17,4 +17,4 @@ We also have some of our code open sourced at https://github.com/enhancv. as we 
 We need people with attention to detail and drive to excellence, with several projects worth of experience. We like to invest in proper solutions and aggressively refactor problematic areas but sometimes you should be able to get your hands dirty - [real artists ship](https://www.quora.com/What-did-Steve-Jobs-mean-by-real-artists-ship). Specific languages and frameworks knowledge is not that important for us as we know that good developers can pick up new tools with ease, but obviously web tech experience is a plus. You'll be working with both client and server tech but if you like to concentrate on one of those you could do that as well.
 
 ## How to apply
-Send us a line at work@enhancv.com with your resume / project examples / open source code and we can take it from there.
+Send us a line at work@enhancv.com with your resume / project examples / open source code and we can take it from there. We're [hiring without whiteboards](https://github.com/poteto/hiring-without-whiteboards).
