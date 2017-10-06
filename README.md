@@ -4,7 +4,7 @@
 Full-time | Product team: 5-10 people | Sofia, Bulgaria
 
 ### [Enhancv](https://enhancv.com)
-We're a company that is building browser-based resume editing software – widely regarded as the best one out there – with the mission to help talented people believe in themselves, and the ambition to become the world’s resume standard. More about us and values at our site:  https://enhancv.com/about.html (Open Sourced [here at github](https://github.com/enhancv/homepage))
+We're a company that is building browser-based resume editing software – widely regarded as the best one out there – with the mission to help talented people believe in themselves, and the ambition to become the world’s resume standard. More about us and our values at our site:  https://enhancv.com/about.html (Open Sourced [here at github](https://github.com/enhancv/homepage))
 
 ### Team
 A handpicked team working in Sofia and Dublin, we've established a good process for building and improving our product, while adopting new technologies and approaches. We also have regular [Power Weeks](https://blog.enhancv.com/?s=power+week) bringing all of us together to work and play.
