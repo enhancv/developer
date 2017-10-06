@@ -1,9 +1,9 @@
-![Developer](developer.png)
+[![Developer](developer.png)](https://enhancv.com)
 
 # Developer
 Full-time | Product team: 5-10 people | Sofia, Bulgaria
 
-### Enhancv
+### [Enhancv](https://enhancv.com)
 We're a company that is building browser-based resume editing software – widely regarded as the best one out there – with the mission to help talented people believe in themselves, and the ambition to become the world’s resume standard. More about us and values at our site:  https://enhancv.com/about.html (Open Sourced [here at github](https://github.com/enhancv/homepage))
 
 ### Team
