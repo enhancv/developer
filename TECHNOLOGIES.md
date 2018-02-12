@@ -9,7 +9,7 @@ We're using Travis for our non-private code such as [payment infrastructure](htt
 - All our logs are collected in `AWS Cloudfront` and we're able to monitor all of our resources via single dashboard.
 
 ### Technologies
-- Latest ES6 features + React + Redux/Reflux + Webpack
+- Latest ES6 features + React + Redux + Webpack
 - NodeJS for API/Workers
 - Python for Content Improvement / AI
 - MongoDB as primary database, Postgres for product analytics
@@ -20,7 +20,7 @@ We're using Travis for our non-private code such as [payment infrastructure](htt
 
 ### Tools
 - `Github` - Open source and private projects (your private contributions will be visible in your github profile)
-- `Trello` - Project management
+- `Kanbanize` - Project management
 - `Codeship` - Continuous Integration
 - `Travis` - Continuous Integration for open source projects
 - `Invision` - Wireframes / Prototypes / Product designs
