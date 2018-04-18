@@ -4,13 +4,13 @@
 Full-time | Product team: 5-10 people | Sofia, Bulgaria
 
 ### [Enhancv](https://enhancv.com)
-We're a company that is building browser-based resume editing software – widely regarded as the best one out there – with the mission to help talented people believe in themselves, and the ambition to become the world’s resume standard. More about us and our values at our site:  https://enhancv.com/about.html (Open Sourced [here at github](https://github.com/enhancv/homepage))
+Enhancv is a web platform that helps people create a resume to be proud of. It’s modern and people remember it. We have helped thousands of clients stand out even in companies such as Spotify, Tesla, Google, and have the ambition to become the world’s resume standard.
 
 ### Team
-A handpicked team working in Sofia and Dublin, we've established a good process for building and improving our product, while adopting new technologies and approaches. We also have regular [Power Weeks](https://blog.enhancv.com/?s=power+week) bringing all of us together to work and play.
+A handpicked team working in Sofia and Dublin, we’ve established a lean, yet robust process for building and improving our product, while experimenting with new technologies and approaches. Meet our team here: https://enhancv.com/about.html
 
 ### Technology
-We do this with `nodejs`, `webpack`, `es6`, `react`, `redux` and `python`, on `heroku` and `AWS`. We use [github flow](https://guides.github.com/introduction/flow/) for our developing process with mutual code reviews and a good amount of integration & unit tests.
+We work with `node.js`, `webpack`, `es6`, `react`, `redux` and `python`, on `heroku` and `AWS`. We use [github flow](https://guides.github.com/introduction/flow/) for our developing process with mutual code reviews and a good amount of integration & unit tests.
 We also have some of our code open sourced at https://github.com/enhancv, as we believe that coding in the open produces code that is well documented, tested, refined, and lasting. For an in-depth technologies overview, see [TECHNOLOGIES.md](TECHNOLOGIES.md).
 
 ### What we need
